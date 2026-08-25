@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "trajeR"]
 	path = trajeR
-	url = https://github.com/gitedric/trajer
+	url = https://codeberg.org/cidric/trajer
